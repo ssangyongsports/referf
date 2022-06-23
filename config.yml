@@ -5,31 +5,6 @@ languageCode: en
 baseURL: https://example.com
 theme: /opt/build/repo/themes
 preserveTaxonomyNames: true
-taxonomies:
-  affected: affected
-outputs:
-  page:
-    - html
-    - json
-  section:
-    - html
-    - json
-    - rss
-  home:
-    - html
-    - json
-    - rss
-    - svg
-  term:
-    - html
-    - json
-    - rss
-    - svg
-outputFormats:
-  svg:
-    isPlainText: true
-    mediaType: image/svg+xml
-enableGitInfo: true
 params:
   skipSeconds: false
   useRelativeTime: true
@@ -59,6 +34,9 @@ params:
   logo: /img/2022-02-28-004341-removebg-preview-1-1-5-.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
+  customTabs:
+    - name: website
+      link: https://aswfcdass.com/
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
   useLogo: true
@@ -78,7 +56,31 @@ params:
     any interruptions, a note will be posted here.
   enableCustomHTML: false
   useLargeHeaderDesign: true
-# Tabs on homepage
 customTabs:
- - name: Monitoring
-   link: https://rss.uptimerobot.com/u1392810-a6115cc531ba608b59a049ad46a0cb80
+  - name: Monitoring
+    link: https://rss.uptimerobot.com/u1392810-a6115cc531ba608b59a049ad46a0cb80
+taxonomies:
+  affected: affected
+outputs:
+  page:
+    - html
+    - json
+  section:
+    - html
+    - json
+    - rss
+  home:
+    - html
+    - json
+    - rss
+    - svg
+  term:
+    - html
+    - json
+    - rss
+    - svg
+outputFormats:
+  svg:
+    isPlainText: true
+    mediaType: image/svg+xml
+enableGitInfo: true
