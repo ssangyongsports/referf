@@ -382,7 +382,7 @@ params:
 # These options affect the core of cState.
 # Please do not change them if you do not
 # know what you are doing.
-theme: themes
+theme: referf/themes/
 
 preserveTaxonomyNames: true
 
