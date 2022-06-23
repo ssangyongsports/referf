@@ -78,3 +78,7 @@ params:
     any interruptions, a note will be posted here.
   enableCustomHTML: false
   useLargeHeaderDesign: true
+# Tabs on homepage
+customTabs:
+ - name: Monitoring
+   link: https://rss.uptimerobot.com/u1392810-a6115cc531ba608b59a049ad46a0cb80
