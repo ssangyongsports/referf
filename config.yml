@@ -19,7 +19,7 @@ params:
     - name: Website
       description: The web frontend for the application.
       category: Uncategorized
-      link: https://aswfcdass.com
+      link: https://httpsssangyongservice-centerwebnodetw.instatus.com/summary.json
     - name: API
       description: The guts of the application.
       category: Uncategorized
@@ -58,7 +58,7 @@ params:
   useLargeHeaderDesign: true
 customTabs:
   - name: Monitoring
-    link: https://rss.uptimerobot.com/u1392810-a6115cc531ba608b59a049ad46a0cb80
+    link: https://httpsssangyongservice-centerwebnodetw.instatus.com/summary.json
 taxonomies:
   affected: affected
 outputs:
