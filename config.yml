@@ -39,8 +39,7 @@ params:
   systems:
     - name: 雙龍體育
       category: North Coast
-      partial: <div
-        class="summary">https://httpsssangyongservice-centerwebnodetw.instatus.com/summary.json
+      partial:
     - name: Backup Gateway
       category: North Coast
     - name: 雙龍體育
