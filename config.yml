@@ -295,9 +295,6 @@ params:
   description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
 
   # Tabs on homepage
-  customTabs:
- - name: Monitoring
-   link: https://httpsssangyongservice-centerwebnodetw.instatus.com/summary.json
   # Uncomment to enable.
   #
   # Format:
@@ -385,7 +382,7 @@ params:
 # These options affect the core of cState.
 # Please do not change them if you do not
 # know what you are doing.
-theme: /opt/build/repo/theme
+theme: cstate
 
 preserveTaxonomyNames: true
 
