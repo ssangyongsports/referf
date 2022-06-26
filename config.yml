@@ -43,10 +43,10 @@ params:
         class="summary">https://httpsssangyongservice-centerwebnodetw.instatus.com/summary.json
     - name: Backup Gateway
       category: North Coast
-    - name: Website
+    - name: 雙龍體育
       description: The web frontend for the application.
       category: Uncategorized
-      link: https://example.com/
+      link: https://ssangyongsportsweb.blogspot.com/
     - name: API
       description: The guts of the application.
       category: Uncategorized
