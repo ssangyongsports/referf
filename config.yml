@@ -37,22 +37,31 @@ params:
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
   systems:
-    - name: 雙龍體育
-      category: North Coast
-      partial:
-    - name: Backup Gateway
-      category: North Coast
-    - name: 雙龍體育
-      description: The web frontend for the application.
-      category: Uncategorized
-      link: https://ssangyongsportsweb.blogspot.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and
-        video. It is reliant on our CDN.
-      category: Uncategorized
+          "Category": "Main",
+      "Name": "website",
+      "URL": "https://aswfcdass.com/",
+      "Code": 200
+    },
+    {
+      "Category": "Main",
+      "Name": "Images",
+      "URL": "https://img.thuhole.com",
+      "Code": 403
+    },
+    {
+      "Category": "Reference",
+      "Name": "Zhihu",
+      "URL": "https://www.zhihu.com",
+      "Code": 302
+    },
+    {
+      "Category": "Reference",
+      "Name": "Google",
+      "URL": "https://www.google.com/gen_204",
+      "Code": 204
+    }
+  ]
+}
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
