@@ -1,11 +1,11 @@
 {
-  "token": "YOUR_GITHUB_TOKEN",
-  "repo": "thuhole/status",
+  "token": "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",
+  "repo": "ssangyongsports/referf",
   "tasks": [
     {
       "Category": "Main",
-      "Name": "API",
-      "URL": "https://thuhole.com/",
+      "Name": "website",
+      "URL": "https://aswfcdass.com/",
       "Code": 200
     },
     {
