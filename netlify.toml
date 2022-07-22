@@ -17,6 +17,6 @@
     command = "hugo -b $DEPLOY_PRIME_URL"
 
 [headers]
-    for = ["/*.json", "/*.xml"]
+    for = ["https://v1.nocodeapi.com/peter6667/uptime/wpCioInJvBdtGtyf?monitors=788847449", "/*.xml"]
     [headers.values] 
       Access-Control-Allow-Origin = "*"
